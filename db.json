@@ -127,38 +127,6 @@
     "price": 500,
     "rating": 5,
     "description": "Capture stunning aerial footage with this professional drone featuring a 4K UHD camera and 3-axis gimbal stabilization. Includes GPS-assisted flight modes, obstacle avoidance, and long battery life for extended flying. Ideal for content creators, filmmakers, and aerial photography enthusiasts."
-  },
-  {
-    "id": 17,
-    "imageUrl": "https://m.media-amazon.com/images/I/41vhqr5QOIS._AC_UF1000,1000_QL80_.jpg",
-    "title": "Multi-Device Wireless Charger",
-    "price": 70,
-    "rating": 4,
-    "description": "Charge multiple devices at once with this fast wireless charging pad. Compatible with smartphones, smartwatches, and wireless earbuds. Features overcharge protection and an anti-slip design for safety and convenience. Perfect for home and office use."
-  },
-  {
-    "id": 18,
-    "imageUrl": "https://images-cdn.ubuy.co.in/65477f3cecc2bc700f0b5909-staresso-mini-travel-coffee-maker-2in1.jpg",
-    "title": "Portable Espresso Maker",
-    "price": 60,
-    "rating": 4,
-    "description": "Brew barista-quality espresso anywhere with this compact, travel-friendly espresso maker. No electricity required—just add hot water and pump manually. Durable design makes it perfect for travelers, campers, and coffee lovers on the go."
-  },
-  {
-    "id": 19,
-    "imageUrl": "https://images-cdn.ubuy.co.in/66a2dcacb5a071403a3dbd37-core-fitness-adjustable-dumbbell.jpg",
-    "title": "Adjustable Dumbbell Set",
-    "price": 150,
-    "rating": 5,
-    "description": "A versatile dumbbell set with adjustable weights for home workouts. Ranges from 5 to 50 lbs per dumbbell, making it ideal for strength training at any fitness level. Ergonomic grip and durable construction ensure safety and comfort during use."
-  },
-  {
-    "id": 20,
-    "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/kj36ky80-0/webcam/o/j/j/4k-ultra-hd-auto-focus-1920x1080p-web-camera-with-microphone-original-imafyqq3n3hyhmqa.jpeg?q=90&crop=false",
-    "title": "4K Ultra HD Webcam with Auto Focus",
-    "price": 100,
-    "rating": 5,
-    "description": "Enhance video calls and streaming with this 4K ultra HD webcam. Features auto-focus, wide-angle lens, and built-in dual microphones for superior audio. Plug-and-play USB connectivity makes it compatible with all major video conferencing platforms."
   }
 ],
   "posts": [
