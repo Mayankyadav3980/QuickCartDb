@@ -4,83 +4,84 @@
     "id": 1,
     "imageUrl": "https://m.media-amazon.com/images/I/61aM7v2f5TL._AC_SL1500_.jpg",
     "title": "Wireless Noise Cancelling Headphones",
-    "price": 149.99,
-    "rating": 4.5,
-    "description": "Experience immersive sound with active noise cancellation. These lightweight wireless headphones provide crystal-clear audio, long battery life, and a comfortable fit for all-day use."
+    "price": 150,
+    "rating": 5,
+    "description": "Experience immersive sound with these wireless noise-canceling headphones, ideal for work, travel, and home use. Featuring active noise cancellation (ANC), they block out background noise for a superior listening experience. Equipped with 40mm drivers, they deliver deep bass, crisp mids, and clear highs. The battery lasts up to 30 hours on a single charge, ensuring uninterrupted use. These lightweight, ergonomic headphones come with memory foam ear cushions for all-day comfort. The built-in Bluetooth 5.0 ensures a stable connection, while the integrated microphone enables hands-free calls. They also feature quick charge technology, providing 5 hours of playback in just 10 minutes. Compatible with smartphones, tablets, and laptops."
   },
   {
     "id": 2,
     "imageUrl": "https://m.media-amazon.com/images/I/71wb7M1g05L._AC_SL1500_.jpg",
     "title": "Smartwatch with Fitness Tracking",
-    "price": 89.99,
-    "rating": 4.2,
-    "description": "Track your heart rate, steps, and sleep with this stylish smartwatch. Features include GPS, water resistance, multiple sport modes, and long battery life for everyday health monitoring."
+    "price": 90,
+    "rating": 4,
+    "description": "Stay on top of your health with this smartwatch featuring 24/7 heart rate monitoring, sleep tracking, and step counting. It includes multiple sports modes for running, cycling, and swimming. The 1.3-inch touchscreen display offers clear visuals even under bright sunlight. With IP68 water resistance, it’s perfect for workouts and outdoor activities. GPS tracking helps monitor routes in real-time. Syncs with iOS and Android devices via Bluetooth 5.0, allowing notifications for calls, texts, and apps. The long-lasting battery provides up to 10 days of usage per charge."
   },
   {
     "id": 3,
     "imageUrl": "https://m.media-amazon.com/images/I/71w2tq-jO-L._AC_SL1500_.jpg",
     "title": "Ergonomic Gaming Chair",
-    "price": 199.99,
-    "rating": 4.7,
-    "description": "Designed for gamers and professionals, this chair provides lumbar support, adjustable armrests, and a reclining function for ultimate comfort during long gaming or work sessions."
+    "price": 200,
+    "rating": 5,
+    "description": "Upgrade your setup with this ergonomic gaming chair designed for maximum comfort. Featuring an adjustable lumbar pillow, headrest, and armrests, it helps maintain proper posture. The high-density foam padding provides a plush yet firm seat, while the PU leather upholstery ensures durability. The 90-180° reclining function allows you to lean back for relaxation, while the 360° swivel base offers full mobility. Built with a sturdy metal frame, it supports up to 300 lbs. Ideal for gaming, streaming, and office work."
   },
   {
     "id": 4,
     "imageUrl": "https://m.media-amazon.com/images/I/81l3rZK4lnL._AC_SL1500_.jpg",
     "title": "4K Ultra HD Smart TV",
-    "price": 599.99,
-    "rating": 4.8,
-    "description": "Enjoy stunning visuals with this 55-inch 4K UHD smart TV. Features HDR, voice control, built-in streaming apps, and high refresh rates for an immersive viewing experience."
+    "price": 600,
+    "rating": 5,
+    "description": "Enjoy breathtaking picture quality with this 55-inch 4K Ultra HD Smart TV. Featuring HDR10+ technology, it delivers stunning contrast, deep blacks, and vibrant colors. The 120Hz refresh rate ensures smooth motion, making it perfect for gaming and sports. Equipped with built-in Wi-Fi and streaming apps like Netflix, Prime Video, and YouTube, you can access endless entertainment. Voice control with Alexa and Google Assistant allows for hands-free navigation. Multiple HDMI and USB ports ensure connectivity for gaming consoles, Blu-ray players, and sound systems."
   },
   {
     "id": 5,
     "imageUrl": "https://m.media-amazon.com/images/I/71E+k6KHizL._AC_SL1500_.jpg",
     "title": "Compact Air Fryer",
-    "price": 79.99,
-    "rating": 4.3,
-    "description": "Cook healthier meals with this compact air fryer. Uses rapid air circulation to fry, bake, and grill with minimal oil, making it ideal for quick and crispy dishes."
+    "price": 80,
+    "rating": 4,
+    "description": "Cook healthier meals effortlessly with this compact air fryer. Uses rapid air circulation technology to crisp foods with little to no oil. Featuring a 4-quart capacity, it’s perfect for cooking for 1-3 people. The digital touchscreen allows easy selection of preset cooking modes, including fries, chicken, steak, and more. With a temperature range of 180-400°F, you can air fry, bake, roast, and grill. The non-stick basket is dishwasher-safe, ensuring easy cleanup."
   },
   {
     "id": 6,
     "imageUrl": "https://m.media-amazon.com/images/I/71CkUg5cTQL._AC_SL1500_.jpg",
     "title": "Portable Bluetooth Speaker",
-    "price": 39.99,
-    "rating": 4.6,
-    "description": "Enjoy powerful bass and crisp sound anywhere with this portable Bluetooth speaker. Water-resistant, long battery life, and a compact design make it perfect for travel."
+    "price": 40,
+    "rating": 4,
+    "description": "Enjoy powerful bass and crisp sound anywhere with this portable Bluetooth speaker. With a compact and water-resistant design, it's ideal for outdoor adventures, parties, and travel. The built-in rechargeable battery offers up to 12 hours of playback on a single charge. Features include wireless pairing, hands-free calling, and a durable silicone casing for added protection. The passive bass radiator enhances low frequencies, delivering a rich audio experience."
   },
   {
     "id": 7,
     "imageUrl": "https://m.media-amazon.com/images/I/61Fk5iGahQL._AC_SL1500_.jpg",
     "title": "Adjustable Standing Desk",
-    "price": 249.99,
-    "rating": 4.5,
-    "description": "Improve posture and productivity with this height-adjustable standing desk. Sturdy construction, smooth transitions, and ample workspace make it great for home or office use."
+    "price": 250,
+    "rating": 5,
+    "description": "Improve posture and productivity with this height-adjustable standing desk. Sturdy construction, smooth transitions, and ample workspace make it great for home or office use. The electric motorized system allows easy height adjustment from sitting to standing positions. Features a spacious tabletop, sturdy steel frame, and anti-collision technology for safety. Ideal for professionals, students, and anyone looking for an ergonomic work setup."
   },
   {
     "id": 8,
     "imageUrl": "https://m.media-amazon.com/images/I/71TwxY3U3-L._AC_SL1500_.jpg",
     "title": "Cordless Vacuum Cleaner",
-    "price": 129.99,
-    "rating": 4.4,
-    "description": "Powerful suction and lightweight design make this cordless vacuum perfect for home cleaning. Includes multiple attachments and a long-lasting battery for deep cleaning."
+    "price": 130,
+    "rating": 4,
+    "description": "Powerful suction and lightweight design make this cordless vacuum perfect for home cleaning. Features a high-efficiency motor, multiple cleaning attachments, and a HEPA filter for trapping dust and allergens. The detachable battery offers up to 45 minutes of runtime per charge. Converts into a handheld vacuum for cleaning furniture, car interiors, and hard-to-reach spaces."
   },
   {
     "id": 9,
     "imageUrl": "https://m.media-amazon.com/images/I/71EWRyqzw0L._AC_SL1500_.jpg",
     "title": "Professional DSLR Camera",
-    "price": 999.99,
-    "rating": 4.9,
-    "description": "Capture stunning photos and videos with this high-resolution DSLR camera. Features fast autofocus, 4K video recording, and a range of manual controls for creative photography."
+    "price": 1000,
+    "rating": 5,
+    "description": "Capture stunning photos and videos with this high-resolution DSLR camera. Features fast autofocus, 4K video recording, and a range of manual controls for creative photography. The interchangeable lens system allows for versatility in different shooting conditions. Built-in Wi-Fi and Bluetooth enable instant sharing and remote shooting. Ideal for professionals, hobbyists, and content creators."
   },
   {
     "id": 10,
     "imageUrl": "https://m.media-amazon.com/images/I/71w5LrFfZtL._AC_SL1500_.jpg",
     "title": "Noise-Cancelling Sleep Headphones",
-    "price": 59.99,
-    "rating": 4.2,
-    "description": "Designed for comfort, these sleep headphones feature soft fabric, Bluetooth connectivity, and active noise cancellation to help you relax and sleep peacefully."
+    "price": 60,
+    "rating": 4,
+    "description": "Designed for comfort, these sleep headphones feature soft fabric, Bluetooth connectivity, and active noise cancellation to help you relax and sleep peacefully. The ultra-thin speakers deliver soothing sound while lying down. With a built-in microphone, you can take calls hands-free. The rechargeable battery lasts up to 12 hours per charge. Ideal for travelers, light sleepers, and meditation enthusiasts."
   }
-  ],
+]
+,
   "posts": [
     {
       "id": 1,
