@@ -1,9 +1,85 @@
 {
   "products":[
-    {
-      "id":1,
-      "name":"hello"
-    }
+  {
+    "id": 1,
+    "imageUrl": "https://m.media-amazon.com/images/I/61aM7v2f5TL._AC_SL1500_.jpg",
+    "title": "Wireless Noise Cancelling Headphones",
+    "price": 149.99,
+    "rating": 4.5,
+    "description": "Experience immersive sound with active noise cancellation. These lightweight wireless headphones provide crystal-clear audio, long battery life, and a comfortable fit for all-day use."
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://m.media-amazon.com/images/I/71wb7M1g05L._AC_SL1500_.jpg",
+    "title": "Smartwatch with Fitness Tracking",
+    "price": 89.99,
+    "rating": 4.2,
+    "description": "Track your heart rate, steps, and sleep with this stylish smartwatch. Features include GPS, water resistance, multiple sport modes, and long battery life for everyday health monitoring."
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://m.media-amazon.com/images/I/71w2tq-jO-L._AC_SL1500_.jpg",
+    "title": "Ergonomic Gaming Chair",
+    "price": 199.99,
+    "rating": 4.7,
+    "description": "Designed for gamers and professionals, this chair provides lumbar support, adjustable armrests, and a reclining function for ultimate comfort during long gaming or work sessions."
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://m.media-amazon.com/images/I/81l3rZK4lnL._AC_SL1500_.jpg",
+    "title": "4K Ultra HD Smart TV",
+    "price": 599.99,
+    "rating": 4.8,
+    "description": "Enjoy stunning visuals with this 55-inch 4K UHD smart TV. Features HDR, voice control, built-in streaming apps, and high refresh rates for an immersive viewing experience."
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://m.media-amazon.com/images/I/71E+k6KHizL._AC_SL1500_.jpg",
+    "title": "Compact Air Fryer",
+    "price": 79.99,
+    "rating": 4.3,
+    "description": "Cook healthier meals with this compact air fryer. Uses rapid air circulation to fry, bake, and grill with minimal oil, making it ideal for quick and crispy dishes."
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://m.media-amazon.com/images/I/71CkUg5cTQL._AC_SL1500_.jpg",
+    "title": "Portable Bluetooth Speaker",
+    "price": 39.99,
+    "rating": 4.6,
+    "description": "Enjoy powerful bass and crisp sound anywhere with this portable Bluetooth speaker. Water-resistant, long battery life, and a compact design make it perfect for travel."
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://m.media-amazon.com/images/I/61Fk5iGahQL._AC_SL1500_.jpg",
+    "title": "Adjustable Standing Desk",
+    "price": 249.99,
+    "rating": 4.5,
+    "description": "Improve posture and productivity with this height-adjustable standing desk. Sturdy construction, smooth transitions, and ample workspace make it great for home or office use."
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/71TwxY3U3-L._AC_SL1500_.jpg",
+    "title": "Cordless Vacuum Cleaner",
+    "price": 129.99,
+    "rating": 4.4,
+    "description": "Powerful suction and lightweight design make this cordless vacuum perfect for home cleaning. Includes multiple attachments and a long-lasting battery for deep cleaning."
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://m.media-amazon.com/images/I/71EWRyqzw0L._AC_SL1500_.jpg",
+    "title": "Professional DSLR Camera",
+    "price": 999.99,
+    "rating": 4.9,
+    "description": "Capture stunning photos and videos with this high-resolution DSLR camera. Features fast autofocus, 4K video recording, and a range of manual controls for creative photography."
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://m.media-amazon.com/images/I/71w5LrFfZtL._AC_SL1500_.jpg",
+    "title": "Noise-Cancelling Sleep Headphones",
+    "price": 59.99,
+    "rating": 4.2,
+    "description": "Designed for comfort, these sleep headphones feature soft fabric, Bluetooth connectivity, and active noise cancellation to help you relax and sleep peacefully."
+  }
   ],
   "posts": [
     {
