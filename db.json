@@ -2,7 +2,7 @@
   "products":[
   {
     "id": 1,
-    "imageUrl": "https://m.media-amazon.com/images/I/61aM7v2f5TL._AC_SL1500_.jpg",
+    "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1682587116/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/271047_0_yaama6.png?tr=w-600",
     "title": "Wireless Noise Cancelling Headphones",
     "price": 150,
     "rating": 5,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "imageUrl": "https://m.media-amazon.com/images/I/71wb7M1g05L._AC_SL1500_.jpg",
+    "imageUrl": "https://i.pinimg.com/736x/91/00/6d/91006dd360a8deac0dac39ea1732d00e.jpg",
     "title": "Smartwatch with Fitness Tracking",
     "price": 90,
     "rating": 4,
@@ -18,7 +18,7 @@
   },
   {
     "id": 3,
-    "imageUrl": "https://m.media-amazon.com/images/I/71w2tq-jO-L._AC_SL1500_.jpg",
+    "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/xif0q/gaming-chair/t/u/w/multi-purpose-ergonomic-gaming-chair-with-adjustable-seat-head-original-imagxush8s9eaqjq.jpeg?q=90&crop=false",
     "title": "Ergonomic Gaming Chair",
     "price": 200,
     "rating": 5,
@@ -26,7 +26,7 @@
   },
   {
     "id": 4,
-    "imageUrl": "https://m.media-amazon.com/images/I/81l3rZK4lnL._AC_SL1500_.jpg",
+    "imageUrl": "https://res.cloudinary.com/sharp-consumer-eu/image/fetch/w_3000,f_auto/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/bd538636-dcc1-11ec-a028-36d391ded592.jpg",
     "title": "4K Ultra HD Smart TV",
     "price": 600,
     "rating": 5,
@@ -34,7 +34,7 @@
   },
   {
     "id": 5,
-    "imageUrl": "https://m.media-amazon.com/images/I/71E+k6KHizL._AC_SL1500_.jpg",
+    "imageUrl": "https://images-cdn.ubuy.co.in/665f556bfe19192643256cd8-mainstays-2-2-quart-compact-air-fryer.jpg",
     "title": "Compact Air Fryer",
     "price": 80,
     "rating": 4,
@@ -42,7 +42,7 @@
   },
   {
     "id": 6,
-    "imageUrl": "https://m.media-amazon.com/images/I/71CkUg5cTQL._AC_SL1500_.jpg",
+    "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20230208/odz6/63e3b823aeb26924e360a481/-473Wx593H-4927969110-multi-MODEL.jpg",
     "title": "Portable Bluetooth Speaker",
     "price": 40,
     "rating": 4,
@@ -50,7 +50,7 @@
   },
   {
     "id": 7,
-    "imageUrl": "https://m.media-amazon.com/images/I/61Fk5iGahQL._AC_SL1500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81leAOaeGOL.jpg",
     "title": "Adjustable Standing Desk",
     "price": 250,
     "rating": 5,
@@ -58,7 +58,7 @@
   },
   {
     "id": 8,
-    "imageUrl": "https://m.media-amazon.com/images/I/71TwxY3U3-L._AC_SL1500_.jpg",
+    "imageUrl": "https://luckybee.in/wp-content/uploads/2022/06/Amazon-Basics-Cordless-Vacuum-Cleaner-with-350-W-Power-Suction-Rechargeable-2000-mAh-Battery-Low-Sound-and-1-Year-Warranty-0.jpg",
     "title": "Cordless Vacuum Cleaner",
     "price": 130,
     "rating": 4,
@@ -66,7 +66,7 @@
   },
   {
     "id": 9,
-    "imageUrl": "https://m.media-amazon.com/images/I/71EWRyqzw0L._AC_SL1500_.jpg",
+    "imageUrl": "https://rvrsp.in/wp-content/uploads/2024/09/professional-dslr-camera-with-zoom-lens.jpg",
     "title": "Professional DSLR Camera",
     "price": 1000,
     "rating": 5,
@@ -74,14 +74,93 @@
   },
   {
     "id": 10,
-    "imageUrl": "https://m.media-amazon.com/images/I/71w5LrFfZtL._AC_SL1500_.jpg",
+    "imageUrl": "https://sleepreviewmag.com/wp-content/uploads/2016/10/Kokoon.png",
     "title": "Noise-Cancelling Sleep Headphones",
     "price": 60,
     "rating": 4,
     "description": "Designed for comfort, these sleep headphones feature soft fabric, Bluetooth connectivity, and active noise cancellation to help you relax and sleep peacefully. The ultra-thin speakers deliver soothing sound while lying down. With a built-in microphone, you can take calls hands-free. The rechargeable battery lasts up to 12 hours per charge. Ideal for travelers, light sleepers, and meditation enthusiasts."
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://computechstore.in/wp-content/uploads/2024/10/AULA-F75-75-Wireless-Mechanical-Keyboard-1-2.jpg",
+    "title": "Wireless Mechanical Keyboard",
+    "price": 120,
+    "rating": 5,
+    "description": "A high-performance wireless mechanical keyboard with tactile keys for fast and accurate typing. Features customizable RGB lighting, ergonomic keycaps, and a durable aluminum frame. Bluetooth and 2.4GHz connectivity ensure lag-free performance. Ideal for gamers, programmers, and professionals who require precision and comfort."
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://i.ytimg.com/vi/9hXZ7oPpOuk/maxresdefault.jpg",
+    "title": "Smart Home Security Camera",
+    "price": 80,
+    "rating": 4,
+    "description": "Monitor your home remotely with this 1080p HD smart security camera. Features motion detection, night vision, and two-way audio for enhanced security. Works with Alexa and Google Assistant for voice control. The camera provides real-time alerts to your smartphone and stores footage on a secure cloud or microSD card."
+  },
+  {
+    "id": 13,
+    "imageUrl": "https://img.tatacliq.com/images/i11/437Wx649H/MP000000017789983_437Wx649H_202306011450372.jpeg",
+    "title": "High-Speed External SSD",
+    "price": 150,
+    "rating": 5,
+    "description": "Store and transfer files quickly with this high-speed external SSD featuring USB-C connectivity. With read speeds up to 1050MB/s, it's perfect for professionals handling large video and photo files. The compact, shock-resistant design ensures durability, making it ideal for travel and work on the go."
+  },
+  {
+    "id": 14,
+    "imageUrl": "https://m.media-amazon.com/images/I/71AEDH41qUL.jpg",
+    "title": "Electric Standing Desk Converter",
+    "price": 200,
+    "rating": 5,
+    "description": "Easily switch between sitting and standing with this electric desk converter. Features a sturdy, adjustable height mechanism with smooth motion. Large surface area accommodates dual monitors. Helps improve posture and reduce strain during long work hours, making it perfect for home and office setups."
+  },
+  {
+    "id": 15,
+    "imageUrl": "https://m.media-amazon.com/images/I/61MgPeUAfvL._AC_UF1000,1000_QL80_.jpg",
+    "title": "Noise-Isolating Wireless Earbuds",
+    "price": 90,
+    "rating": 4,
+    "description": "Enjoy crystal-clear sound with these wireless earbuds featuring noise isolation and deep bass. Bluetooth 5.2 ensures stable connectivity. The ergonomic design offers a secure fit, making them ideal for workouts and daily use. Touch controls allow for easy music and call management, and the charging case provides up to 24 hours of battery life."
+  },
+  {
+    "id": 16,
+    "imageUrl": "https://images-cdn.ubuy.co.in/66983f8460e4db12510ca1fb-e99-k3-pro-mini-drone-4k-profesional-hd.jpg",
+    "title": "Professional Drone with 4K Camera",
+    "price": 500,
+    "rating": 5,
+    "description": "Capture stunning aerial footage with this professional drone featuring a 4K UHD camera and 3-axis gimbal stabilization. Includes GPS-assisted flight modes, obstacle avoidance, and long battery life for extended flying. Ideal for content creators, filmmakers, and aerial photography enthusiasts."
+  },
+  {
+    "id": 17,
+    "imageUrl": "https://m.media-amazon.com/images/I/41vhqr5QOIS._AC_UF1000,1000_QL80_.jpg",
+    "title": "Multi-Device Wireless Charger",
+    "price": 70,
+    "rating": 4,
+    "description": "Charge multiple devices at once with this fast wireless charging pad. Compatible with smartphones, smartwatches, and wireless earbuds. Features overcharge protection and an anti-slip design for safety and convenience. Perfect for home and office use."
+  },
+  {
+    "id": 18,
+    "imageUrl": "https://images-cdn.ubuy.co.in/65477f3cecc2bc700f0b5909-staresso-mini-travel-coffee-maker-2in1.jpg",
+    "title": "Portable Espresso Maker",
+    "price": 60,
+    "rating": 4,
+    "description": "Brew barista-quality espresso anywhere with this compact, travel-friendly espresso maker. No electricity required—just add hot water and pump manually. Durable design makes it perfect for travelers, campers, and coffee lovers on the go."
+  },
+  {
+    "id": 19,
+    "imageUrl": "https://images-cdn.ubuy.co.in/66a2dcacb5a071403a3dbd37-core-fitness-adjustable-dumbbell.jpg",
+    "title": "Adjustable Dumbbell Set",
+    "price": 150,
+    "rating": 5,
+    "description": "A versatile dumbbell set with adjustable weights for home workouts. Ranges from 5 to 50 lbs per dumbbell, making it ideal for strength training at any fitness level. Ergonomic grip and durable construction ensure safety and comfort during use."
+  },
+  {
+    "id": 20,
+    "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/kj36ky80-0/webcam/o/j/j/4k-ultra-hd-auto-focus-1920x1080p-web-camera-with-microphone-original-imafyqq3n3hyhmqa.jpeg?q=90&crop=false",
+    "title": "4K Ultra HD Webcam with Auto Focus",
+    "price": 100,
+    "rating": 5,
+    "description": "Enhance video calls and streaming with this 4K ultra HD webcam. Features auto-focus, wide-angle lens, and built-in dual microphones for superior audio. Plug-and-play USB connectivity makes it compatible with all major video conferencing platforms."
   }
-]
-,
+],
   "posts": [
     {
       "id": 1,
