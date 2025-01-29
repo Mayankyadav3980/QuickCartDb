@@ -2,7 +2,7 @@
   "products":[
     {"id":1,
       "name":"this is name",
-    },
+    }
   ],
   "posts": [
     {
