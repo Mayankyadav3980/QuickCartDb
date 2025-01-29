@@ -103,30 +103,6 @@
     "price": 150,
     "rating": 5,
     "description": "Store and transfer files quickly with this high-speed external SSD featuring USB-C connectivity. With read speeds up to 1050MB/s, it's perfect for professionals handling large video and photo files. The compact, shock-resistant design ensures durability, making it ideal for travel and work on the go."
-  },
-  {
-    "id": 14,
-    "imageUrl": "https://m.media-amazon.com/images/I/71AEDH41qUL.jpg",
-    "title": "Electric Standing Desk Converter",
-    "price": 200,
-    "rating": 5,
-    "description": "Easily switch between sitting and standing with this electric desk converter. Features a sturdy, adjustable height mechanism with smooth motion. Large surface area accommodates dual monitors. Helps improve posture and reduce strain during long work hours, making it perfect for home and office setups."
-  },
-  {
-    "id": 15,
-    "imageUrl": "https://m.media-amazon.com/images/I/61MgPeUAfvL._AC_UF1000,1000_QL80_.jpg",
-    "title": "Noise-Isolating Wireless Earbuds",
-    "price": 90,
-    "rating": 4,
-    "description": "Enjoy crystal-clear sound with these wireless earbuds featuring noise isolation and deep bass. Bluetooth 5.2 ensures stable connectivity. The ergonomic design offers a secure fit, making them ideal for workouts and daily use. Touch controls allow for easy music and call management, and the charging case provides up to 24 hours of battery life."
-  },
-  {
-    "id": 16,
-    "imageUrl": "https://images-cdn.ubuy.co.in/66983f8460e4db12510ca1fb-e99-k3-pro-mini-drone-4k-profesional-hd.jpg",
-    "title": "Professional Drone with 4K Camera",
-    "price": 500,
-    "rating": 5,
-    "description": "Capture stunning aerial footage with this professional drone featuring a 4K UHD camera and 3-axis gimbal stabilization. Includes GPS-assisted flight modes, obstacle avoidance, and long battery life for extended flying. Ideal for content creators, filmmakers, and aerial photography enthusiasts."
   }
 ],
   "posts": [
