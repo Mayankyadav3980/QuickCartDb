@@ -13,7 +13,7 @@
     "imageUrl": "https://i.pinimg.com/736x/91/00/6d/91006dd360a8deac0dac39ea1732d00e.jpg",
     "title": "Smartwatch with Fitness Tracking",
     "price": 90,
-    "rating": 4,
+    "rating": 3,
     "description": "Stay on top of your health with this smartwatch featuring 24/7 heart rate monitoring, sleep tracking, and step counting. It includes multiple sports modes for running, cycling, and swimming. The 1.3-inch touchscreen display offers clear visuals even under bright sunlight. With IP68 water resistance, it’s perfect for workouts and outdoor activities. GPS tracking helps monitor routes in real-time. Syncs with iOS and Android devices via Bluetooth 5.0, allowing notifications for calls, texts, and apps. The long-lasting battery provides up to 10 days of usage per charge."
   },
   {
@@ -21,7 +21,7 @@
     "imageUrl": "https://res.cloudinary.com/sharp-consumer-eu/image/fetch/w_3000,f_auto/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/bd538636-dcc1-11ec-a028-36d391ded592.jpg",
     "title": "4K Ultra HD Smart TV",
     "price": 600,
-    "rating": 5,
+    "rating": 4,
     "description": "Enjoy breathtaking picture quality with this 55-inch 4K Ultra HD Smart TV. Featuring HDR10+ technology, it delivers stunning contrast, deep blacks, and vibrant colors. The 120Hz refresh rate ensures smooth motion, making it perfect for gaming and sports. Equipped with built-in Wi-Fi and streaming apps like Netflix, Prime Video, and YouTube, you can access endless entertainment. Voice control with Alexa and Google Assistant allows for hands-free navigation. Multiple HDMI and USB ports ensure connectivity for gaming consoles, Blu-ray players, and sound systems."
   },
   {
@@ -29,7 +29,7 @@
     "imageUrl": "https://images-cdn.ubuy.co.in/665f556bfe19192643256cd8-mainstays-2-2-quart-compact-air-fryer.jpg",
     "title": "Compact Air Fryer",
     "price": 80,
-    "rating": 4,
+    "rating": 2,
     "description": "Cook healthier meals effortlessly with this compact air fryer. Uses rapid air circulation technology to crisp foods with little to no oil. Featuring a 4-quart capacity, it’s perfect for cooking for 1-3 people. The digital touchscreen allows easy selection of preset cooking modes, including fries, chicken, steak, and more. With a temperature range of 180-400°F, you can air fry, bake, roast, and grill. The non-stick basket is dishwasher-safe, ensuring easy cleanup."
   },
   {
@@ -37,7 +37,7 @@
     "imageUrl": "https://luckybee.in/wp-content/uploads/2022/06/Amazon-Basics-Cordless-Vacuum-Cleaner-with-350-W-Power-Suction-Rechargeable-2000-mAh-Battery-Low-Sound-and-1-Year-Warranty-0.jpg",
     "title": "Cordless Vacuum Cleaner",
     "price": 130,
-    "rating": 4,
+    "rating": 5,
     "description": "Powerful suction and lightweight design make this cordless vacuum perfect for home cleaning. Features a high-efficiency motor, multiple cleaning attachments, and a HEPA filter for trapping dust and allergens. The detachable battery offers up to 45 minutes of runtime per charge. Converts into a handheld vacuum for cleaning furniture, car interiors, and hard-to-reach spaces."
   },
   {
@@ -45,7 +45,7 @@
     "imageUrl": "https://computechstore.in/wp-content/uploads/2024/10/AULA-F75-75-Wireless-Mechanical-Keyboard-1-2.jpg",
     "title": "Wireless Mechanical Keyboard",
     "price": 120,
-    "rating": 5,
+    "rating": 1,
     "description": "A high-performance wireless mechanical keyboard with tactile keys for fast and accurate typing. Features customizable RGB lighting, ergonomic keycaps, and a durable aluminum frame. Bluetooth and 2.4GHz connectivity ensure lag-free performance. Ideal for gamers, programmers, and professionals who require precision and comfort."
   },
   {
@@ -53,7 +53,7 @@
     "imageUrl": "https://i.ytimg.com/vi/9hXZ7oPpOuk/maxresdefault.jpg",
     "title": "Smart Home Security Camera",
     "price": 80,
-    "rating": 4,
+    "rating": 3,
     "description": "Monitor your home remotely with this 1080p HD smart security camera. Features motion detection, night vision, and two-way audio for enhanced security. Works with Alexa and Google Assistant for voice control. The camera provides real-time alerts to your smartphone and stores footage on a secure cloud or microSD card."
   },
   {
@@ -61,7 +61,7 @@
     "imageUrl": "https://img.tatacliq.com/images/i11/437Wx649H/MP000000017789983_437Wx649H_202306011450372.jpeg",
     "title": "High-Speed External SSD",
     "price": 150,
-    "rating": 5,
+    "rating": 4,
     "description": "Store and transfer files quickly with this high-speed external SSD featuring USB-C connectivity. With read speeds up to 1050MB/s, it's perfect for professionals handling large video and photo files. The compact, shock-resistant design ensures durability, making it ideal for travel and work on the go."
   },
   {
@@ -69,7 +69,7 @@
     "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20230208/odz6/63e3b823aeb26924e360a481/-473Wx593H-4927969110-multi-MODEL.jpg",
     "title": "Portable Bluetooth Speaker",
     "price": 40,
-    "rating": 4,
+    "rating": 3,
     "description": "Enjoy powerful bass and crisp sound anywhere with this portable Bluetooth speaker. With a compact and water-resistant design, it's ideal for outdoor adventures, parties, and travel. The built-in rechargeable battery offers up to 12 hours of playback on a single charge. Features include wireless pairing, hands-free calling, and a durable silicone casing for added protection. The passive bass radiator enhances low frequencies, delivering a rich audio experience."
   },
   {
@@ -77,7 +77,7 @@
     "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/xif0q/gaming-chair/t/u/w/multi-purpose-ergonomic-gaming-chair-with-adjustable-seat-head-original-imagxush8s9eaqjq.jpeg?q=90&crop=false",
     "title": "Ergonomic Gaming Chair",
     "price": 200,
-    "rating": 5,
+    "rating": 2,
     "description": "Upgrade your setup with this ergonomic gaming chair designed for maximum comfort. Featuring an adjustable lumbar pillow, headrest, and armrests, it helps maintain proper posture. The high-density foam padding provides a plush yet firm seat, while the PU leather upholstery ensures durability. The 90-180° reclining function allows you to lean back for relaxation, while the 360° swivel base offers full mobility. Built with a sturdy metal frame, it supports up to 300 lbs. Ideal for gaming, streaming, and office work."
   },
   {
@@ -101,7 +101,7 @@
     "imageUrl": "https://m.media-amazon.com/images/I/81leAOaeGOL.jpg",
     "title": "Adjustable Standing Desk",
     "price": 250,
-    "rating": 5,
+    "rating": 3,
     "description": "Improve posture and productivity with this height-adjustable standing desk. Sturdy construction, smooth transitions, and ample workspace make it great for home or office use. The electric motorized system allows easy height adjustment from sitting to standing positions. Features a spacious tabletop, sturdy steel frame, and anti-collision technology for safety. Ideal for professionals, students, and anyone looking for an ergonomic work setup."
   }
 ],
